@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Color Detection</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string-array name="colortest">
+        <item >@drawable/daltonismo10</item>
+        <item >@drawable/daltonismo12</item>
+        <item >@drawable/daltonismo15</item>
+        <item >@drawable/daltonismo16</item>
+        <item >@drawable/daltonismo18</item>
+        <item >@drawable/daltonismo2</item>
+        <item >@drawable/daltonismo29</item>
+        <item >@drawable/daltonismo2_2</item>
+        <item >@drawable/daltonismo42</item>
+        <item >@drawable/daltonismo42_2</item>
+        <item >@drawable/daltonismo5</item>
+        <item >@drawable/daltonismo57</item>
+        <item >@drawable/daltonismo57_2</item>
+        <item >@drawable/daltonismo5_2</item>
+        <item >@drawable/daltonismo6</item>
+        <item >@drawable/daltonismo6_2</item>
+        <item >@drawable/daltonismo7</item>
+        <item >@drawable/daltonismo74</item>
+        <item >@drawable/daltonismo74_2</item>
+        <item >@drawable/daltonismo8</item>
+    </string-array>
+    
+</resources>
